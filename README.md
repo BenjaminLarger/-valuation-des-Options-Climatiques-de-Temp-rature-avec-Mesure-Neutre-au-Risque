@@ -1,3 +1,5 @@
+![Screenshot from 2025-01-01 17-53-04](https://github.com/user-attachments/assets/ece27828-6a38-4a40-b470-5b939b337579)
+
 # Projet d'Évaluation des Options Température
 
 Ce projet évalue la juste valeur des options de température, à la fois sous une approche Monte Carlo et une approche similaire à Black-Scholes sous la mesure risque-neutre. Il calcule la valeur des options call et put basées sur les "heating degree days" (HDD), en tenant compte de la volatilité et des paramètres du marché pour des contrats d'hiver.
